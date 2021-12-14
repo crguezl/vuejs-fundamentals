@@ -1,5 +1,19 @@
 # Vue.js Fundamentals
 
+
+## TODO exercise
+
+[ ] Write initial HTML with a shopping-list div
+[ ] Load and Instanciate Vue add data and Vue template syntax to interpolate
+[ ] Add an input an synchronize it with the interpolated text to see it
+[ ] Explore the app in the console
+[ ] Discuss the syntax of JS inside moustaches
+[ ] Learn to read the errors in the console
+[ ] Add items to data and show them useing v-for
+[ ] Add input a variable to store the newItem
+[ ] Use Vue Devtools
+
+
 [![](https://vueschool.s3.amazonaws.com/089f25af6e0e1f678474f10e98fdb6d0/vuejs-fundamentals.png)](https://vueschool.io/courses/vuejs-fundamentals)
 
 This repository contains the example code for the [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals) course.
