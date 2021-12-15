@@ -22,6 +22,7 @@ Follow these steps:
 - [ ] Add v-on: Start by simulating in the console what we are going to do
 - [ ] Add button to add the new item when clicked
 - [ ] Add v-on:keyup.enter to the input element
+- [ ] Shorthands for v-on 
 
 This repository contains the example code for the [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals) course.
 
