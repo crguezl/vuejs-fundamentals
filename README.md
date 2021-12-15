@@ -66,6 +66,22 @@ Here is the DFA with the transitions:
 
 - [ ] Disable the button `save item` when the `input` is empty by binding the `disabled` attribute of the button
 
+## Dynamic classes with v-bind
+
+- [ ] Change the list of items from a list of Strings to a list of Objects with `label` and `purchased` attributes. Update the `saveItem` method and the template accordingly
+- [ ] Make use of the class `.strikeout` in the css file:
+
+  ```css
+  .strikeout {
+    text-decoration: line-through;
+    color: #B8C2CC;
+  }
+
+  .strikeout:hover {
+      color: #8795A1;
+  }
+ ```
+ to style the purchased items
 
 ## Topics
 
