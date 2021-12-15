@@ -7,7 +7,12 @@ See also [Annotated Reading of the Essentials Section of the Vue.js Guide](https
 
 ## TODOS for the Shopping list app
 
-Follow these steps:
+Follow the course and build the *Shopping List** web app.
+
+Leave your solution in the file [index.html](index.html) of the `main` branch (initially empty).
+
+
+Be sure to follow these steps:
 
 - [ ] Write initial HTML with a shopping-list div
 - [ ] Load and Instanciate Vue add data and Vue template syntax to interpolate
