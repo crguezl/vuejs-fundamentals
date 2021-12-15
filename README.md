@@ -31,4 +31,6 @@ This Vue.js course will teach you and get you up and running with the fundamenta
 
 The course is suitable for developers who do not yet know about Vue.js or are just getting started with Vue.
 
+##  Vue School
+
 The course is free. [Enroll at Vue School!](https://vueschool.io/courses/vuejs-fundamentals)
