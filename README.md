@@ -9,7 +9,10 @@ See also [Annotated Reading of the Essentials Section of the Vue.js Guide](https
 
 Follow the course and build the *Shopping List** web app.
 
-Leave your solution in the file [index.html](index.html) of the `main` branch (initially empty).
+1. Leave your solution in the file [index.html](index.html) of the `main` branch, initially empty.
+2. There is a file [main.css](main.css) with the styles used during the course
+3. The file [solution.html](solution.html) contains the final solution
+
 
 
 Be sure to follow these steps:
