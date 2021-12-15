@@ -41,7 +41,7 @@ Be sure to follow these steps:
 - [ ] Check the method using the debugger
 - [ ] v-if and v-else: add a conditional message when the list is empty
 
-### Add State to your App
+### Next Steps: Add State to your App
 
 Add states **default** and **edition** to your app. The views on each state will be different
 
@@ -53,7 +53,9 @@ State **default** corresponds to when the user is the initial state. There will 
 
 <img src="images/default.png" width="60%" >
 
+Here is the DFA with the transitions:
 
+<img src="images/dfa.png" width="60%">
 
 ## Topics
 
