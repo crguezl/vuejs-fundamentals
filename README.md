@@ -23,6 +23,7 @@ Follow these steps:
 - [ ] Add button to add the new item when clicked
 - [ ] Add v-on:keyup.enter to the input element
 - [ ] Shorthands for v-on 
+- [ ] Use methods to factorice
 
 This repository contains the example code for the [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals) course.
 
