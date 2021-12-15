@@ -1,5 +1,9 @@
 # Vue.js Fundamentals
 
+This repository is a template for you to follow the course [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals).
+
+This Vue.js course [Vue School](https://vueschool.io/courses/vuejs-fundamentals) will teach you and get you up and running with the basics concepts of Vue.js. 
+
 You can find this free course by **Vue School** at [vueschool.io](https://vueschool.io/courses/vuejs-fundamentals). 
 The course is suitable for developers who do not yet know about Vue.js or are just getting started with Vue.
 
@@ -10,11 +14,13 @@ See also [Annotated Reading of the Essentials Section of the Vue.js Guide](https
 Follow the course and build the *Shopping List* web app.
 
 1. Leave your solution in the file [index.html](index.html) of the `main` branch, initially empty.
-2. There is a file [main.css](main.css) with the styles used during the course
-3. The file [solution.html](solution.html) contains the final solution
-4. You can see the final solution running here <https://crguezl.github.io/vuejs-fundamentals/solution.html>
+2. There is a file [main.css](main.css) with the styles used during the course. Use it.
+3. The file [solution.html](solution.html) contains the final solution. Check your progress against it.
+4. You can check how it has to look at the end here <https://crguezl.github.io/vuejs-fundamentals/solution.html>
 
 Be sure to follow these steps:
+
+### Initial Steps
 
 - [ ] Write initial HTML with a shopping-list div
 - [ ] Load and Instanciate Vue add data and Vue template syntax to interpolate
@@ -34,13 +40,20 @@ Be sure to follow these steps:
 - [ ] Reset the input when finished the insertion
 - [ ] Check the method using the debugger
 - [ ] v-if and v-else: add a conditional message when the list is empty
-- [ ] Add states: **default** and **edition**
-  - State **edition** corresponds to when the user is adding/editing a new item: there will be an **input** form to input the item, buttons to **cancel** the edition, to **save the item**, etc.
-  - State **default** corresponds to when the user is the initial state. There will be a button to **add** a new item 
 
-This repository contains the example code for the [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals) course.
+### Add State to your App
 
-This Vue.js course [Vue School](https://vueschool.io/courses/vuejs-fundamentals) will teach you and get you up and running with the fundamental concepts of Vue.js. 
+Add states **default** and **edition** to your app. The views on each state will be different
+
+State **edition** corresponds to when the user is adding/editing a new item: there will be an **input** form to input the item, buttons to **cancel** the edition, to **save the item**, etc.
+
+<img src="images/edition.png" width="60%" >
+
+State **default** corresponds to when the user is the initial state. There will be a button to **add** a new item 
+
+<img src="images/default.png" width="60%" >
+
+
 
 ## Topics
 
@@ -52,7 +65,6 @@ This Vue.js course [Vue School](https://vueschool.io/courses/vuejs-fundamentals)
 - Handling Events
 - Vue.js Methods and Computed Properties
 - Attribute Bindings and dynamic classes
-- Components
 
 
 
