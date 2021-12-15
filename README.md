@@ -83,6 +83,7 @@ Here is the DFA with the transitions:
  ```
  to style the purchased items
 
+
 ## Topics
 
 - Introduction to two-way data binding
