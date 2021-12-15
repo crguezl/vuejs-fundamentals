@@ -34,7 +34,9 @@ Be sure to follow these steps:
 - [ ] Reset the input when finished the insertion
 - [ ] Check the method using the debugger
 - [ ] v-if and v-else: add a conditional message when the list is empty
-- [ ] Add states: default and edition 
+- [ ] Add states: **default** and **edition**
+  - State **edition** corresponds to when the user is adding/editing a new item: there will be an **input** form to input the item, buttons to **cancel** the edition, to **save the item**, etc.
+  - State **default** corresponds to when the user is the initial state. There will be a button to **add** a new item 
 
 This repository contains the example code for the [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals) course.
 
