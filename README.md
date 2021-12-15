@@ -24,6 +24,7 @@ Follow these steps:
 - [ ] Add v-on:keyup.enter to the input element
 - [ ] Shorthands for v-on 
 - [ ] Use a method `saveItem` to factorice
+- [ ] Reset the input when finished the insertion
 
 This repository contains the example code for the [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals) course.
 
