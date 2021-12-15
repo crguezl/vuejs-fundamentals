@@ -62,6 +62,11 @@ Here is the DFA with the transitions:
 - [ ] Show the  `add button` only if the state is `default` and the `cancel` button  when it is not
 - [ ] Add the `changeState` method that reflect the transitions between both states 
 
+## v-bind steps
+
+- [ ] Disable the button `save item` when the `input` is empty
+
+
 ## Topics
 
 - Introduction to two-way data binding
