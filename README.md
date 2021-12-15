@@ -1,6 +1,6 @@
 # Vue.js Fundamentals
 
-## TOOS for the Shopping list app
+## TODOS for the Shopping list app
 
 - [ ] Write initial HTML with a shopping-list div
 - [ ] Load and Instanciate Vue add data and Vue template syntax to interpolate
