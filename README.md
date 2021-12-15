@@ -64,7 +64,7 @@ Here is the DFA with the transitions:
 
 ## v-bind steps
 
-- [ ] Disable the button `save item` when the `input` is empty
+- [ ] Disable the button `save item` when the `input` is empty by binding the `disabled` attribute of the button
 
 
 ## Topics
