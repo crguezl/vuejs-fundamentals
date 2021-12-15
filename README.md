@@ -33,7 +33,7 @@ Be sure to follow these steps:
 - [ ] Use a method `saveItem` to factorice
 - [ ] Reset the input when finished the insertion
 - [ ] Check the method using the debugger
-- [ ] v-if and v-else
+- [ ] v-if and v-else: add a conditional message when the list is empty
 - [ ] Add states: default and edition 
 
 This repository contains the example code for the [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals) course.
