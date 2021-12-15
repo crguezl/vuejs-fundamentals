@@ -1,7 +1,7 @@
 # Vue.js Fundamentals
 
 
-## TODO exercise
+## TODOs
 
 - [ ] Write initial HTML with a shopping-list div
 - [ ] Load and Instanciate Vue add data and Vue template syntax to interpolate
