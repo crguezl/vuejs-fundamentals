@@ -15,9 +15,12 @@ Follow these steps:
 - [ ] Explore the app in the console
 - [ ] Discuss the syntax of JS inside moustaches
 - [ ] Learn to read the errors in the console
-- [ ] Add items to data and show them useing v-for
+- [ ] Add items to data and show them using v-for
 - [ ] Add input a variable to store the newItem
-- [ ] Use Vue Devtools
+- [ ] Connect the input with the newItem and check the binding
+- [ ] Use Vue Devtools. Configure it to work with file://
+- [ ] Add v-on: Start by simulating in the console what we are going to do
+- [ ] Add button to add the new item when clicked
 
 This repository contains the example code for the [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals) course.
 
