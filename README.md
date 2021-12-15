@@ -17,7 +17,7 @@ This repository contains the example code for the [Vue.js Fundamentals](https://
 
 This Vue.js course will teach you and get you up and running with the fundamental concepts of Vue.js. Perfect if you haven't touched Vue before or you just getting started!
 
-#### Topics covered:
+## Topics covered:
 
 - Introduction to two-way data binding
 - Template syntax and expressions
