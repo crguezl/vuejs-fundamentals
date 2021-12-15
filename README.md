@@ -75,12 +75,13 @@ Here is the DFA with the transitions:
   .strikeout {
     text-decoration: line-through;
     color: #B8C2CC;
-  }
+  } 
 
   .strikeout:hover {
       color: #8795A1;
   }
- ```
+  ```
+
  to style the purchased items
 
 
