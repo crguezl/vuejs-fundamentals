@@ -26,6 +26,7 @@ Follow these steps:
 - [ ] Use a method `saveItem` to factorice
 - [ ] Reset the input when finished the insertion
 - [ ] Check the method using the debugger
+- [ ] v-if and v-else
 
 This repository contains the example code for the [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals) course.
 
