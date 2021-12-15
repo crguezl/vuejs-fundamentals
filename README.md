@@ -28,9 +28,9 @@ This Vue.js course [Vue School](https://vueschool.io/courses/vuejs-fundamentals)
 - Attribute Bindings and dynamic classes
 - Components
 
-The course is suitable for developers who do not yet know about Vue.js or are just getting started with Vue.
 
 ##  References
 
 - [Annotated Reading of the Essentials Section of the Vue.js Guide](https://crguezl.github.io/learning-vue-geting-started-guide)
-- You can find this free course by **Vue School** at [vueschool.io](https://vueschool.io/courses/vuejs-fundamentals)
+- You can find this free course by **Vue School** at [vueschool.io](https://vueschool.io/courses/vuejs-fundamentals). The course is suitable for developers who do not yet know about Vue.js or are just getting started with Vue.
+
