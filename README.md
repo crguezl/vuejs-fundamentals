@@ -1,6 +1,13 @@
 # Vue.js Fundamentals
 
+You can find this free course by **Vue School** at [vueschool.io](https://vueschool.io/courses/vuejs-fundamentals). 
+The course is suitable for developers who do not yet know about Vue.js or are just getting started with Vue.
+
+See also [Annotated Reading of the Essentials Section of the Vue.js Guide](https://crguezl.github.io/learning-vue-geting-started-guide)
+
 ## TODOS for the Shopping list app
+
+Follow these steps:
 
 - [ ] Write initial HTML with a shopping-list div
 - [ ] Load and Instanciate Vue add data and Vue template syntax to interpolate
@@ -29,8 +36,4 @@ This Vue.js course [Vue School](https://vueschool.io/courses/vuejs-fundamentals)
 - Components
 
 
-##  References
-
-- [Annotated Reading of the Essentials Section of the Vue.js Guide](https://crguezl.github.io/learning-vue-geting-started-guide)
-- You can find this free course by **Vue School** at [vueschool.io](https://vueschool.io/courses/vuejs-fundamentals). The course is suitable for developers who do not yet know about Vue.js or are just getting started with Vue.
 
