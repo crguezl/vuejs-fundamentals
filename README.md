@@ -82,7 +82,7 @@ Here is the DFA with the transitions:
   }
   ```
 
- to style the purchased items
+ to style the purchased items. Use first the *object syntax* `v-bind:class="{myclass: expression}"` and later the *array syntax* `v-bind:class=[exp1, exp2]`
 
 
 ## Topics
