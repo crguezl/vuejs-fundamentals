@@ -27,6 +27,7 @@ Follow these steps:
 - [ ] Reset the input when finished the insertion
 - [ ] Check the method using the debugger
 - [ ] v-if and v-else
+- [ ] Add states: default and edition 
 
 This repository contains the example code for the [Vue.js Fundamentals](https://vueschool.io/courses/vuejs-fundamentals) course.
 
