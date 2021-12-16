@@ -22,24 +22,22 @@ Be sure to follow these steps:
 
 ### Initial Steps
 
-- [ ] Write initial HTML with a shopping-list div
-- [ ] Load and Instanciate Vue add data and Vue template syntax to interpolate
-- [ ] Add an input an synchronize it with the interpolated text to see it
-- [ ] Explore the app in the console
-- [ ] Discuss the syntax of JS inside moustaches
-- [ ] Learn to read the errors in the console
-- [ ] Add items to data and show them using v-for
-- [ ] Add input a variable to store the newItem
-- [ ] Connect the input with the newItem and check the binding
-- [ ] Use Vue Devtools. Configure it to work with file://
-- [ ] Add v-on: Start by simulating in the console what we are going to do
-- [ ] Add button to add the new item when clicked
-- [ ] Add v-on:keyup.enter to the input element
-- [ ] Shorthands for v-on 
-- [ ] Use a method `saveItem` to factorice
-- [ ] Reset the input when finished the insertion
-- [ ] Check the method using the debugger
-- [ ] v-if and v-else: add a conditional message when the list is empty
+- [  ] Write initial HTML with a shopping-list div
+- [  ] Load and Instanciate Vue add data and Vue template syntax to interpolate
+- [  ] Add an input an synchronize it with the interpolated text to see it
+- [  ] Explore the app in the console
+- [  ] Discuss the syntax of JS inside moustaches
+- [  ] Learn to read the errors in the console
+- [  ] Add items to data and show them using v-for
+- [  ] Use Vue Devtools. Configure it to work with file://
+- [  ] Add v-on: Start by simulating in the console what we are going to do
+- [  ] Add button to add the new item when clicked
+- [  ] Add v-on:keyup.enter to the input element
+- [  ] Shorthands for v-on 
+- [  ] Use a method `saveItem` to factorice
+- [  ] Reset the input when finished the insertion
+- [  ] Check the method using the debugger
+- [  ] v-if and v-else: add a conditional message when the list is empty
 
 ### Next Steps: Add State to your App
 
@@ -57,10 +55,10 @@ Here is the DFA with the transitions:
 
 <img src="images/dfa.png" width="60%">
 
-- [ ] Show the `div` with class `add-item-form` only if the state is `edition`
-- [ ] Add a div with class `header`with two buttons: one for adding an item and the other for cancelling the edition
-- [ ] Show the  `add button` only if the state is `default` and the `cancel` button  when it is not
-- [ ] Add the `changeState` method that reflect the transitions between both states 
+- [  ] Show the `div` with class `add-item-form` only if the state is `edition`
+- [  ] Add a div with class `header` with two buttons: one for adding an item and the other for cancelling the edition
+- [  ] Show the  `add button` only if the state is `default` and the `cancel` button  when it is not
+- [  ] Add the `changeState` method that reflect the transitions between both states 
 
 ## v-bind steps
 
@@ -68,8 +66,8 @@ Here is the DFA with the transitions:
 
 ## Dynamic classes with v-bind
 
-- [ ] Change the list of items from a list of Strings to a list of Objects with `label` and `purchased` attributes. Update the `saveItem` method and the template accordingly
-- [ ] Make use of the class `.strikeout` in the css file:
+- [  ] Change the list of items from a list of Strings to a list of Objects with `label` and `purchased` attributes. Update the `saveItem` method and the template accordingly
+- [  ] Make use of the class `.strikeout` in the css file:
 
   ```css
   .strikeout {
@@ -93,7 +91,7 @@ Here is the DFA with the transitions:
 - Vue Devtools
 - Handling user Inputs
 - Handling Events
-- Vue.js Methods and Computed Properties
+- Vue.js Methods
 - Attribute Bindings and dynamic classes
 
 
