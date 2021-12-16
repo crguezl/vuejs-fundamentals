@@ -1,0 +1,21 @@
+{
+  "name": "vuejs-fundamentals",
+  "version": "1.0.0",
+  "description": "You can find this free course by **Vue School** at [vueschool.io](https://vueschool.io/courses/vuejs-fundamentals).  The course is suitable for developers who do not yet know about Vue.js or are just getting started with Vue.",
+  "main": "index.js",
+  "scripts": {
+    "push": "git commit -am \"$(git diff --name-only | tr '\n' ' ')\" && git push",
+    "dfa": "mmdc -i images/dfa.mmd -o images/dfa.png"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crguezl/vuejs-fundamentals.git"
+  },
+  "keywords": [],
+  "author": "Casiano Rodriguez Leon <crguezl@ull.edu.es> (https://crguezl.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crguezl/vuejs-fundamentals/issues"
+  },
+  "homepage": "https://github.com/crguezl/vuejs-fundamentals#readme"
+}
