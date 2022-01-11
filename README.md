@@ -57,6 +57,28 @@ Here is the DFA with the transitions:
 
 <img src="images/dfa.png" width="90%">
 
+- [  ] Move the `input` and `button` *Save Item* elements to a `div` with class `add-item-form` so that these styles apply
+
+  ```css
+  .add-item-form, .header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .add-item-form input {
+      width: 70%;
+      border-radius: 3px;
+      box-shadow: 0 2px 4px 0 rgba(0,0,0,0.10);
+      border: 1px solid #F1F5F8;
+      color: #606F7B;
+      padding: .5rem .75rem;
+      box-sizing: border-box;
+      font-size: 1rem;
+      letter-spacing: .5px;
+      margin: .5rem 0;
+  }
+  ```
 - [  ] Show the `div` with class `add-item-form` only if the state is `edition`
 - [  ] Add a div with class `header` with two buttons: one for adding an item and the other for cancelling the edition
 - [  ] Show the  `add button` only if the state is `default` and the `cancel` button  when it is not
