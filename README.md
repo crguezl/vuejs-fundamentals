@@ -41,21 +41,22 @@ Be sure to follow these steps:
 
 ### Next Steps: Add State to your App
 
-Add a `state` variable to the app `data` to represent the states of the app. 
-There will be two states: **default** and **edition**. 
-The views on each state will be different
+- [  ] Add a `state` variable to the app `data` to represent the states of the app. 
 
-State **edition** corresponds to when the user is adding/editing a new item: there will be an **input** form to input the item, buttons to **cancel** the edition, to **save the item**, etc.
+  There will be two states: **default** and **edition**. 
+  The views on each state will be different
 
-<img src="images/edition.png" width="60%" >
+  State **edition** corresponds to when the user is adding/editing a new item: there will be an **input** form to input the item, buttons to **cancel** the edition, to **save the item**, etc.
 
-State **default** corresponds to when the user is the initial state. There will be a button to **add** a new item 
+  <img src="images/edition.png" width="60%" >
 
-<img src="images/default.png" width="60%" >
+  State **default** corresponds to when the user is the initial state. There will be a button to **add** a new item 
 
-Here is the DFA with the transitions:
+  <img src="images/default.png" width="60%" >
 
-<img src="images/dfa.png" width="90%">
+  Here is the DFA with the transitions:
+
+  <img src="images/dfa.png" width="90%">
 
 - [  ] Move the `input` and `button` *Save Item* elements to a `div` with class `add-item-form` so that these styles apply
 
