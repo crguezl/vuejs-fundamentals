@@ -81,8 +81,10 @@ Be sure to follow these steps:
   }
   ```
 - [  ] Show the `div` with class `add-item-form` only if the state is `edition`
-- [  ] Add a div with class `header` with two buttons: one for adding an item and the other for cancelling the edition
-- [  ] Show the  `add button` only if the state is `default` and the `cancel` button  when it is not
+- [  ] To the div with class `header` add a button `Add Item` that will make the app transit from the `default` state to the `edition` state 
+- [  ] Show the  `add button` only if the state is `default` 
+- [  ] To the div with class `header` add a button `Cancel Adding Item` that will make the app transit from the `edition` state to the `default` state 
+- [  ] Show the  `Cancel Adding Item` button only if the state is `edition`
 - [  ] Add the `changeState` method that reflect the transitions between both states 
 
 
