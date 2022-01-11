@@ -41,11 +41,17 @@ Be sure to follow these steps:
 
 ### Next Steps: Add State to your App
 
-Add states **default** and **edition** to your app. The views on each state will be different
+Add a `state` variable to the app `data` to represent the states of the app. 
+There will be two states: **default** and **edition**. 
+The views on each state will be different
 
 State **edition** corresponds to when the user is adding/editing a new item: there will be an **input** form to input the item, buttons to **cancel** the edition, to **save the item**, etc.
 
+<img src="images/edition.png" width="60%" >
+
 State **default** corresponds to when the user is the initial state. There will be a button to **add** a new item 
+
+<img src="images/default.png" width="60%" >
 
 Here is the DFA with the transitions:
 
@@ -56,13 +62,6 @@ Here is the DFA with the transitions:
 - [  ] Show the  `add button` only if the state is `default` and the `cancel` button  when it is not
 - [  ] Add the `changeState` method that reflect the transitions between both states 
 
-#### View of the Edition State
-
-<img src="images/edition.png" width="60%" >
-
-#### View of the Default State
-
-<img src="images/default.png" width="60%" >
 
 ## v-bind steps
 
