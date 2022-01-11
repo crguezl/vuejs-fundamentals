@@ -92,6 +92,10 @@ Be sure to follow these steps:
 
 - [ ] Disable the button `save item` when the `input` is empty by binding the `disabled` attribute of the button
 
+  The `disabled` attribute is a boolean attribute. A disabled button is unusable and un-clickable.
+  
+  The disabled attribute can be set to keep a user from clicking on the button until some other condition has been met (like selecting a checkbox, etc.)
+
 ## Dynamic classes with v-bind
 
 - [  ] Change the list of items from a list of Strings to a list of Objects with `label` and `purchased` attributes. Update the `saveItem` method and the template accordingly
